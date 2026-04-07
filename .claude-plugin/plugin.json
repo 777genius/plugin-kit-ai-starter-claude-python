@@ -1,6 +1,6 @@
 {
   "description": "plugin-kit-ai plugin",
-  "name": "claude-python-starter",
+  "name": "plugin-kit-ai-starter-claude-python",
   "skills": "./skills/",
   "userConfig": {},
   "version": "0.1.0"

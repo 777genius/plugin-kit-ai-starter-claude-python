@@ -1,0 +1,1 @@
+# plugin-kit-ai-starter-claude-pythonAgent skill stub. Reference your plugin binary after `make build`, e.g. `./bin/plugin-kit-ai-starter-claude-python`.
