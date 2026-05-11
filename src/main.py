@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 from plugin_runtime import ClaudeApp, allow
 
-app = ClaudeApp(
+ap = ClaudeApp(
     allowed_hooks=["Stop", "PreToolUse", "UserPromptSubmit"],
     usage="main.py <Stop|PreToolUse|UserPromptSubmit>",
 )
